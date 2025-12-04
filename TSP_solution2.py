@@ -1,6 +1,5 @@
 import time
 import random
-import math
 from typing import List, Tuple
 
 # Build a matrix
