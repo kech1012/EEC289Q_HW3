@@ -1,6 +1,6 @@
 import time
 import random
-from typing import List, Tuple
+from typing import List
 
 # Build a matrix
 def load_graph(file_path: str, n: int = 1000):

@@ -49,7 +49,7 @@ def nn_algorithm(dist: List[List[float]], start: int) -> List[int]:
         current = next_city
     return tour
 
-# Optimize with 2-opts algorithm
+# Optimize with 2-opt algorithm
 def two_opt(
     tour: List[int],
     dist: List[List[float]],
